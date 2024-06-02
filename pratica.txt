@@ -1,1 +1,3 @@
 Atividade prática GIT - Gerência de Configuração
+
+-> Atualizando arquivo!

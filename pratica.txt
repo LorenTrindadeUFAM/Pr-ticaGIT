@@ -1,3 +1,4 @@
 Atividade prática GIT - Gerência de Configuração
 
 -> Atualizando arquivo!
+-> Atualizando novamente o arquivo, para alteração na main local.
